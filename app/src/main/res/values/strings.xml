@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Project2CS478</string>
+
+    <string-array name="PhoneNames">
+        <item>Iphone Xs MAX</item>
+        <item>Iphone 8 Plus</item>
+        <item>Samsung Note 9</item>
+        <item>Samsung Galaxy S9</item>
+        <item>Google Pixel 3</item>
+        <item>Google Pixel 2</item>
+
+
+    </string-array>
+
+    <string-array name="SpecInfo">
+        <item>6.5 Inch Display, $1099</item>
+        <item>5.5 Inch Display, $699</item>
+        <item>6.4 Inch Display, $999</item>
+        <item>5.8 Inch Display, $719</item>
+        <item>5.5 Inch Display, $799</item>
+        <item>5.0 Inch Display, $649</item>
+
+
+    </string-array>
+
+    <string-array name="phoneWebPages">
+        <item>https://www.apple.com/shop/buy-iphone/iphone-xs</item>
+        <item>https://www.apple.com/shop/buy-iphone/iphone-8</item>
+        <item>https://www.samsung.com/us/mobile/galaxy-note9/performance/</item>
+        <item>https://www.samsung.com/global/galaxy/galaxy-s9/</item>
+        <item>https://store.google.com/us/product/pixel_3?hl=en-US</item>
+        <item>https://store.google.com/us/product/pixel_2?hl=en-US</item>
+    </string-array>
+
+    <string-array name="detailedSpecsInfo">
+        <item>Capacity: 64GB($1099), 256GB($1249), 512GB($1449), A12 Chip, Weight: 7.34 ounces</item>
+        <item>Capacity: 64GB($699), 256GB($849), A11 Chip, Weight: 7.13 ounces</item>
+        <item>Capacity and RAM: 6GB RAM with 128 GB($999), 8GB RAM with 512 GB($1249). 10nm 64-bit Octa Processor, Weight: 7.09 ounces</item>
+        <item>Capacity and RAM: 4GB RAM with 64 GB($719). 10nm 64-bit Octa Processor, Weight: 6.67 ounces</item>
+        <item>Capacity and RAM: 4GB RAM with 64 GB($799), or 4GB RAM with 128 GB($899), Qualcomm Snapdragon 845 processor, 5.22 ounces</item>
+        <item> Capacity and RAM: 4GB RAM with 64 GB($649), or 4GB RAM with 128 GB($749), Qualcomm Snapdragon 835 processor, 5.01 ounces</item>
+    </string-array>
+
+</resources>
